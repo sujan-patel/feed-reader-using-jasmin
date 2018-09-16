@@ -1,11 +1,11 @@
-#Feed Reader
+# Feed Reader
 A Udacity FEND Feed Reader Project <br/>
 Using javascript testing framework Jasmine. <br/>
 
-##Reference
+## Reference
 * [Jasmin] (https://jasmine.github.io/)
 
-##How to run this test
+## How to run this test
 * Click "Clone in Desktop" / "Download ZIP"
 * Open the folder
 * Open index.html on your preferred browser
